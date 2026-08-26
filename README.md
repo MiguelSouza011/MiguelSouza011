@@ -47,8 +47,8 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=MiguelVieiraDeSouza&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=007396&icon_color=007396&text_color=c9d1d9" height="170" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MiguelVieiraDeSouza&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=007396&text_color=c9d1d9" height="170" alt="Linguagens Mais Utilizadas" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=MiguelSouza011&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=007396&icon_color=007396&text_color=c9d1d9" height="170" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MiguelSouza011&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=007396&text_color=c9d1d9" height="170" alt="Linguagens Mais Utilizadas" />
 </div>
 
 ---
