@@ -1,17 +1,25 @@
-# Olá, eu sou o Miguel Vieira de Souza 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d1117&height=220&section=header&text=Miguel%20Vieira%20de%20Souza&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" />
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=ED8B00&width=435&lines=Desenvolvedor+Back-end;Estudante+de+Engenharia+de+Software;Java+%2B+Spring+Boot+%2B+Python" alt="Typing SVG" />
-</p>
+  <p align="center">
+    <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=007396&center=true&vCenter=true&width=500&lines=Software+Engineering;Backend+Developer;Java+%7C+Spring+Boot+%7C+Python+%7C+SQL" alt="Typing SVG" /></a>
+  </p>
+</div>
 
-- 🎓 Graduando em **Engenharia de Software**
-- 🎯 Foco profissional: **Desenvolvimento Back-end**
-- 🚀 Construindo soluções escaláveis com **Java, Spring Boot, Python e Bancos de Dados**
-- 💼 Confira abaixo os meus repositórios fixados para ver meu código na prática!
+---
+
+### 👨‍💻 Sobre Mim
+
+- 🎓 Cursando **Engenharia de Software**
+- 🎯 Focado em **Desenvolvimento Back-end**
+- ⚙️ Estudando e desenvolvendo projetos práticos de APIs RESTful com Java, Spring Boot e Bancos de Dados Relacionais **Java, Spring Boot e Bancos de Dados Relacionais**
+- 🛠️ Domínio em boas práticas de código: **SOLID, Padrões de Projeto (DAO, Factory), IoC/Injeção de Dependência**
 
 ---
 
 ### 🛠️ Tech Stack & Ferramentas
+
+<div align="left">
 
 **Linguagens & Core:**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -25,25 +33,31 @@
 
 **Bancos de Dados & Persistência:**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![H2 Database](https://img.shields.io/badge/H2--Console-004880?style=for-the-badge)
+![H2 Database](https://img.shields.io/badge/H2--Database-004880?style=for-the-badge)
 
 **Ferramentas, Versionamento & I/O:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+</div>
 
 ---
 
-### 📈 Estatísticas do GitHub
+### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MiguelSouza011&show_icons=true&theme=radial&count_private=true" alt="Estatísticas de Miguel" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelSouza011&layout=compact&theme=radial&hide=html,css" alt="Linguagens Mais Utilizadas" height="170" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=MiguelVieiraDeSouza&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=007396&icon_color=007396&text_color=c9d1d9" height="170" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MiguelVieiraDeSouza&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=007396&text_color=c9d1d9" height="170" alt="Linguagens Mais Utilizadas" />
+</div>
 
 ---
 
 ### 🤝 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil-aqui)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@email.com)
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MiguelVieiraDeSouza)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souzzamiguel09@gmail.com)
+
+</div>
