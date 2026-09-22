@@ -12,7 +12,7 @@
 
 - 🎓 Cursando **Engenharia de Software**
 - 🎯 Focado em **Desenvolvimento Back-end**
-- ⚙️ Estudando e desenvolvendo projetos práticos de APIs RESTful com Java, Spring Boot e Bancos de Dados Relacionais **Java, Spring Boot e Bancos de Dados Relacionais**
+- ⚙️ Estudando e desenvolvendo projetos práticos de APIs REST e RESTful com Java, Spring Boot e Bancos de Dados Relacionais **Java, Spring Boot e Bancos de Dados Relacionais**
 - 🛠️ Domínio em boas práticas de código: **SOLID, Padrões de Projeto (DAO, Factory), IoC/Injeção de Dependência**
 
 ---
